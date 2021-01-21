@@ -1,4 +1,4 @@
-# User-Registartion-System-PHP | User Registration System PHP 
+# Basic PHP HKimhab - PHP Basic HKimhab 
 
 User Registration System Using PHP and MySQL Database | Db 
 
