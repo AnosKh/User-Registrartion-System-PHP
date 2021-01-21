@@ -76,8 +76,5 @@ if(count($errors) ==  0){
     // Redirect the browser 
     // header("Location: http://www.geeksforgeeks.org"); 
     header('location: index.php'); 
-    
 }
-
-
 ?>
