@@ -15,6 +15,8 @@
 
 <body>
     <?php 
+    /* The final keyword can be used to prevent class inheritance or to prevent method overriding. */
+    /* final class ProLang {} Class Udemy may not inherit from final class (ProLang) */
     class ProLang {
         public $name; 
         public $color; 
