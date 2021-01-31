@@ -10,6 +10,12 @@
 
 <body>
     <?php 
+    /*  Note about const or class constants in php 
+            - const word is case-sensitive word 
+            - recommend to use const word is upper-case letter 
+                . class::CONST (Variable)  
+            - 
+    */
     class Greeting {
         const GRE_WORDS = " A: <b> Hello</b> and How are you today? .<br />"; 
         const REPLY = "B: I'm good, thank you."; 
